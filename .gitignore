@@ -3,10 +3,9 @@
 Dataset/bsds500/test/*
 Dataset/bsds500/trainval/*
 Dataset/msrc2_seg/gt/*
-Dataset/msrc2_seg/gt/*
 Dataset/msrc2_seg/gt_label/*
 Dataset/msrc2_seg/images/*
-Dataset/msrc2_seg/msrc2_seg.zip
+Dataset/msrc2_seg.zip
 
 demo
 
